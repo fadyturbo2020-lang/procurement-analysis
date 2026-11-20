@@ -1,0 +1,641 @@
+PO_Number,OrderDate,Supplier,Category,Amount,PromisedDays,ActualDays
+90000,2025-03-01,Delta Supplies Co.,Textiles,31850.14,5,7
+90001,2025-06-16,Misr Office Supply,Office Supplies,15571.5,14,9
+90002,2025-10-23,Red Sea Electronics,Chemicals,16721.4,5,1
+90003,2025-10-07,Cairo Plastics,Spare Parts,29069.08,14,14
+90004,2025-07-13,Misr Office Supply,Electronics,28350.99,10,9
+90005,2025-06-14,Misr Office Supply,Office Supplies,11600.35,5,2
+90006,2025-11-10,Nile Chemicals,Chemicals,27348.12,10,9
+90007,2025-10-20,Alex Metals Works,Raw Materials,41875.13,7,12
+90008,2025-09-28,Nile Chemicals,Packaging,30968.35,10,6
+90009,2025-03-20,Alex Metals Works,Office Supplies,42736.53,14,13
+90010,2025-01-23,Giza Textiles,Raw Materials,19631.12,10,5
+90011,2025-05-09,Nile Packaging,Electronics,17335.8,14,17
+90012,2025-09-25,Giza Textiles,Electronics,44869.36,10,8
+90013,2025-02-27,Red Sea Electronics,Office Supplies,36326.11,14,14
+90014,2025-09-22,Red Sea Electronics,Chemicals,30391.38,7,8
+90015,2025-11-15,Misr Office Supply,Electronics,36466.95,10,10
+90016,2025-05-10,Delta Foods,Raw Materials,27395.43,5,4
+90017,2025-06-06,Nile Chemicals,Electronics,12398.76,10,9
+90018,2025-08-13,Nile Packaging,Packaging,7516.92,5,1
+90019,2025-05-29,Delta Supplies Co.,Office Supplies,21028.79,10,9
+90020,2025-07-07,Giza Textiles,Textiles,29871.99,5,4
+90021,2025-05-12,Cairo Plastics,Textiles,38537.0,10,7
+90022,2025-03-08,Canal Freight & Parts,Electronics,4724.32,7,12
+90023,2025-04-15,Nile Packaging,Raw Materials,34509.65,10,9
+90024,2025-07-14,Delta Supplies Co.,Raw Materials,27489.39,14,10
+90025,2025-08-25,Giza Textiles,Textiles,44782.0,14,13
+90026,2025-04-01,Misr Office Supply,Spare Parts,37460.82,5,1
+90027,2025-04-29,Giza Textiles,Chemicals,3745.28,7,8
+90028,2025-05-31,Nile Packaging,Raw Materials,11490.46,10,10
+90029,2025-02-09,Nile Packaging,Textiles,5794.76,5,1
+90030,2025-04-21,Nile Chemicals,Textiles,39108.89,14,18
+90031,2025-10-09,Canal Freight & Parts,Packaging,44918.07,14,15
+90032,2025-01-26,Delta Supplies Co.,Packaging,44513.27,7,6
+90033,2025-05-21,Nile Packaging,Electronics,18500.14,10,11
+90034,2025-06-02,Delta Supplies Co.,Electronics,15093.06,14,10
+90035,2025-07-14,Misr Office Supply,Electronics,15113.6,14,13
+90036,2025-03-09,Red Sea Electronics,Office Supplies,23026.44,5,6
+90037,2025-10-26,Nile Chemicals,Spare Parts,16695.47,7,11
+90038,2025-08-22,Nile Packaging,Textiles,42910.9,5,4
+90039,2025-06-15,Delta Foods,Packaging,36231.8,5,4
+90040,2025-05-30,Canal Freight & Parts,Chemicals,21548.52,7,5
+90041,2025-08-16,Cairo Plastics,Raw Materials,9745.8,7,1
+90042,2025-11-24,Nile Packaging,Spare Parts,27640.24,5,10
+90043,2025-04-03,Misr Office Supply,Office Supplies,36430.01,5,6
+90044,2025-09-13,Delta Foods,Spare Parts,11074.14,7,4
+90045,2025-03-23,Cairo Plastics,Chemicals,6337.08,7,3
+90046,2025-02-18,Giza Textiles,Packaging,30331.85,7,8
+90047,2025-05-12,Giza Textiles,Packaging,39331.5,14,6
+90048,2025-03-10,Cairo Plastics,Spare Parts,27028.41,5,6
+90049,2025-06-13,Delta Foods,Electronics,15948.87,7,9
+90050,2025-04-20,Cairo Plastics,Textiles,43889.48,7,11
+90051,2025-06-17,Alex Metals Works,Office Supplies,14515.59,14,12
+90052,2025-10-07,Alex Metals Works,Textiles,16326.81,5,5
+90053,2025-07-25,Delta Supplies Co.,Spare Parts,17128.12,5,6
+90054,2025-04-18,Red Sea Electronics,Raw Materials,10621.92,5,4
+90055,2025-05-24,Canal Freight & Parts,Chemicals,25250.81,10,12
+90056,2025-02-15,Cairo Plastics,Chemicals,41758.09,7,8
+90057,2025-01-17,Delta Supplies Co.,Electronics,10358.12,5,6
+90058,2025-03-19,Red Sea Electronics,Textiles,12638.04,10,12
+90059,2025-07-06,Nile Packaging,Spare Parts,37777.14,7,7
+90060,2025-02-05,Alex Metals Works,Chemicals,18910.32,14,17
+90061,2025-01-19,Delta Supplies Co.,Chemicals,26907.25,5,7
+90062,2025-07-31,Nile Packaging,Electronics,33287.83,7,2
+90063,2025-03-25,Alex Metals Works,Office Supplies,42486.46,10,12
+90064,2025-06-19,Red Sea Electronics,Electronics,8408.6,5,8
+90065,2025-02-18,Cairo Plastics,Raw Materials,8582.25,5,1
+90066,2025-05-19,Canal Freight & Parts,Chemicals,3808.72,5,3
+90067,2025-05-12,Cairo Plastics,Electronics,19359.89,10,12
+90068,2025-04-15,Misr Office Supply,Chemicals,12304.8,7,11
+90069,2025-02-18,Nile Packaging,Raw Materials,23001.25,5,2
+90070,2025-10-20,Alex Metals Works,Packaging,38166.18,7,6
+90071,2025-01-16,Giza Textiles,Chemicals,24279.0,14,11
+90072,2025-05-30,Cairo Plastics,Packaging,27597.64,5,8
+90073,2025-09-20,Cairo Plastics,Raw Materials,27764.65,5,6
+90074,2025-02-20,Alex Metals Works,Spare Parts,15055.07,5,6
+90075,2025-02-13,Canal Freight & Parts,Packaging,2462.93,14,19
+90076,2025-07-30,Alex Metals Works,Office Supplies,23990.16,14,19
+90077,2025-03-27,Nile Chemicals,Spare Parts,8035.95,7,8
+90078,2025-04-12,Nile Packaging,Raw Materials,36038.33,7,5
+90079,2025-09-03,Red Sea Electronics,Chemicals,35508.19,5,1
+90080,2025-02-05,Nile Chemicals,Spare Parts,19688.2,5,6
+90081,2025-06-28,Red Sea Electronics,Office Supplies,35199.27,7,10
+90082,2025-09-12,Delta Foods,Raw Materials,34033.4,7,6
+90083,2025-10-30,Giza Textiles,Textiles,37482.47,7,11
+90084,2025-09-20,Nile Packaging,Raw Materials,43643.78,10,9
+90085,2025-05-10,Cairo Plastics,Packaging,27267.91,7,2
+90086,2025-10-15,Delta Supplies Co.,Textiles,30535.37,7,9
+90087,2025-07-22,Giza Textiles,Textiles,42769.01,10,7
+90088,2025-04-27,Giza Textiles,Spare Parts,15104.82,10,6
+90089,2025-06-03,Canal Freight & Parts,Raw Materials,42892.63,14,8
+90090,2025-09-01,Alex Metals Works,Electronics,25452.39,14,11
+90091,2025-02-12,Giza Textiles,Spare Parts,22035.37,10,11
+90092,2025-01-17,Alex Metals Works,Office Supplies,40250.88,10,5
+90093,2025-07-28,Nile Packaging,Packaging,31366.9,7,15
+90094,2025-01-22,Delta Foods,Electronics,43181.4,14,14
+90095,2025-07-05,Cairo Plastics,Electronics,40263.81,7,5
+90096,2025-11-09,Misr Office Supply,Spare Parts,44507.68,14,13
+90097,2025-04-07,Giza Textiles,Chemicals,2389.52,7,9
+90098,2025-03-31,Delta Foods,Office Supplies,17149.07,5,8
+90099,2025-02-21,Alex Metals Works,Spare Parts,40433.44,14,12
+90100,2025-08-02,Delta Foods,Electronics,17558.32,5,2
+90101,2025-11-20,Misr Office Supply,Spare Parts,31091.69,14,13
+90102,2025-09-13,Delta Supplies Co.,Spare Parts,40186.9,14,8
+90103,2025-03-02,Red Sea Electronics,Electronics,34296.18,14,20
+90104,2025-03-19,Alex Metals Works,Raw Materials,42977.95,14,16
+90105,2025-05-19,Cairo Plastics,Chemicals,41474.04,7,7
+90106,2025-09-18,Canal Freight & Parts,Office Supplies,44232.32,5,6
+90107,2025-11-18,Delta Foods,Spare Parts,25404.37,7,6
+90108,2025-08-04,Giza Textiles,Textiles,43409.98,14,10
+90109,2025-07-04,Nile Chemicals,Packaging,37840.4,10,5
+90110,2025-09-11,Alex Metals Works,Packaging,24187.7,5,5
+90111,2025-02-01,Delta Foods,Office Supplies,24382.06,7,4
+90112,2025-06-09,Nile Chemicals,Office Supplies,10047.28,5,1
+90113,2025-06-08,Cairo Plastics,Chemicals,15798.66,14,9
+90114,2025-08-13,Giza Textiles,Electronics,18577.24,14,15
+90115,2025-08-30,Nile Packaging,Packaging,41809.44,10,11
+90116,2025-11-15,Alex Metals Works,Spare Parts,40374.81,14,10
+90117,2025-01-23,Delta Foods,Spare Parts,25034.21,7,6
+90118,2025-10-14,Nile Chemicals,Office Supplies,41452.06,14,14
+90119,2025-09-29,Nile Packaging,Electronics,21335.27,10,7
+90120,2025-01-07,Delta Foods,Electronics,27892.27,5,1
+90121,2025-07-04,Cairo Plastics,Raw Materials,39650.81,10,9
+90122,2025-02-19,Delta Foods,Packaging,29725.21,14,16
+90123,2025-11-21,Giza Textiles,Textiles,38189.44,5,1
+90124,2025-06-24,Nile Chemicals,Spare Parts,9986.63,14,9
+90125,2025-03-15,Delta Foods,Packaging,11161.28,14,17
+90126,2025-02-03,Canal Freight & Parts,Office Supplies,12128.35,14,14
+90127,2025-08-10,Cairo Plastics,Chemicals,33336.45,14,14
+90128,2025-03-09,Cairo Plastics,Chemicals,7372.5,7,8
+90129,2025-05-25,Giza Textiles,Electronics,7644.99,5,10
+90130,2025-07-16,Canal Freight & Parts,Spare Parts,23889.97,10,8
+90131,2025-11-08,Cairo Plastics,Electronics,6035.12,7,1
+90132,2025-10-19,Nile Packaging,Raw Materials,38059.6,5,2
+90133,2025-06-16,Delta Supplies Co.,Textiles,29057.38,7,10
+90134,2025-03-13,Red Sea Electronics,Chemicals,25861.2,14,13
+90135,2025-01-17,Misr Office Supply,Spare Parts,22106.09,5,6
+90136,2025-09-05,Nile Chemicals,Chemicals,26443.43,7,5
+90137,2025-04-22,Delta Foods,Spare Parts,43877.85,7,13
+90138,2025-10-23,Misr Office Supply,Electronics,20228.22,5,5
+90139,2025-02-02,Nile Packaging,Chemicals,6832.28,10,11
+90140,2025-07-19,Delta Supplies Co.,Spare Parts,17968.0,14,14
+90141,2025-09-30,Delta Foods,Raw Materials,29596.3,10,15
+90142,2025-10-22,Canal Freight & Parts,Textiles,10201.67,7,1
+90143,2025-11-12,Nile Packaging,Textiles,9119.44,7,10
+90144,2025-04-10,Red Sea Electronics,Spare Parts,10501.27,5,4
+90145,2025-04-11,Cairo Plastics,Chemicals,34488.45,10,6
+90146,2025-06-01,Delta Supplies Co.,Raw Materials,17217.99,5,9
+90147,2025-08-02,Misr Office Supply,Electronics,25983.4,5,2
+90148,2025-11-18,Nile Chemicals,Electronics,6526.19,7,4
+90149,2025-03-31,Giza Textiles,Raw Materials,36592.84,10,8
+90150,2025-08-21,Nile Chemicals,Spare Parts,40023.28,5,1
+90151,2025-09-06,Nile Chemicals,Spare Parts,15696.58,5,9
+90152,2025-03-07,Giza Textiles,Packaging,17214.09,5,2
+90153,2025-01-11,Delta Foods,Spare Parts,44163.72,7,6
+90154,2025-08-12,Giza Textiles,Packaging,7947.67,14,17
+90155,2025-02-26,Canal Freight & Parts,Chemicals,18293.01,7,12
+90156,2025-01-05,Canal Freight & Parts,Chemicals,41296.79,5,4
+90157,2025-06-15,Canal Freight & Parts,Chemicals,40068.49,10,10
+90158,2025-09-06,Nile Chemicals,Textiles,39865.64,7,9
+90159,2025-02-20,Cairo Plastics,Textiles,21625.51,7,7
+90160,2025-10-27,Delta Supplies Co.,Spare Parts,22238.32,14,14
+90161,2025-07-24,Red Sea Electronics,Office Supplies,39866.85,7,3
+90162,2025-11-07,Giza Textiles,Raw Materials,32088.62,7,9
+90163,2025-04-28,Giza Textiles,Chemicals,35886.29,5,7
+90164,2025-04-25,Cairo Plastics,Spare Parts,2040.66,5,5
+90165,2025-08-27,Giza Textiles,Packaging,42470.22,5,11
+90166,2025-04-23,Giza Textiles,Electronics,3776.9,5,8
+90167,2025-08-28,Red Sea Electronics,Spare Parts,43128.43,5,3
+90168,2025-02-19,Canal Freight & Parts,Chemicals,15900.74,7,9
+90169,2025-09-19,Delta Supplies Co.,Raw Materials,38610.82,14,16
+90170,2025-10-12,Canal Freight & Parts,Spare Parts,36378.78,5,1
+90171,2025-02-09,Misr Office Supply,Chemicals,14511.5,5,4
+90172,2025-07-23,Alex Metals Works,Spare Parts,23801.37,5,3
+90173,2025-08-23,Nile Packaging,Office Supplies,29952.51,7,6
+90174,2025-04-17,Nile Packaging,Chemicals,24345.8,14,18
+90175,2025-02-18,Cairo Plastics,Spare Parts,39898.42,5,4
+90176,2025-02-21,Delta Foods,Packaging,23247.84,5,3
+90177,2025-10-23,Cairo Plastics,Raw Materials,5390.73,10,11
+90178,2025-01-23,Cairo Plastics,Chemicals,18571.12,5,2
+90179,2025-07-28,Nile Packaging,Raw Materials,37999.09,7,2
+90180,2025-01-16,Delta Supplies Co.,Packaging,28604.97,7,8
+90181,2025-05-31,Delta Foods,Office Supplies,7768.01,14,11
+90182,2025-06-03,Alex Metals Works,Textiles,9006.2,10,12
+90183,2025-08-31,Delta Foods,Spare Parts,12739.14,10,10
+90184,2025-07-31,Nile Chemicals,Spare Parts,16134.45,5,2
+90185,2025-05-03,Nile Packaging,Chemicals,8936.12,10,13
+90186,2025-01-19,Nile Packaging,Chemicals,7239.88,10,7
+90187,2025-08-23,Cairo Plastics,Chemicals,4296.34,7,8
+90188,2025-10-03,Misr Office Supply,Office Supplies,35383.91,7,9
+90189,2025-11-20,Cairo Plastics,Packaging,14357.73,5,3
+90190,2025-01-07,Alex Metals Works,Chemicals,20833.66,10,8
+90191,2025-03-27,Giza Textiles,Packaging,16694.66,10,10
+90192,2025-01-15,Delta Foods,Chemicals,43465.44,5,4
+90193,2025-11-26,Nile Packaging,Chemicals,4921.07,7,5
+90194,2025-07-20,Misr Office Supply,Raw Materials,5158.31,10,14
+90195,2025-02-08,Misr Office Supply,Raw Materials,33065.15,7,9
+90196,2025-09-19,Nile Packaging,Electronics,15036.09,10,12
+90197,2025-07-29,Red Sea Electronics,Office Supplies,39756.8,7,5
+90198,2025-08-24,Giza Textiles,Spare Parts,35733.43,10,9
+90199,2025-02-24,Nile Chemicals,Office Supplies,16428.42,7,8
+90200,2025-11-16,Nile Packaging,Packaging,35644.92,5,5
+90201,2025-10-28,Delta Foods,Packaging,3963.21,10,9
+90202,2025-09-04,Delta Foods,Office Supplies,5824.64,5,5
+90203,2025-10-26,Delta Supplies Co.,Raw Materials,14723.05,7,6
+90204,2025-05-18,Misr Office Supply,Office Supplies,9582.12,7,9
+90205,2025-07-09,Nile Chemicals,Electronics,9147.91,10,8
+90206,2025-02-27,Giza Textiles,Spare Parts,3293.86,7,8
+90207,2025-04-10,Giza Textiles,Spare Parts,17710.03,7,6
+90208,2025-11-25,Nile Packaging,Office Supplies,18228.75,14,13
+90209,2025-07-09,Delta Foods,Raw Materials,22321.3,7,7
+90210,2025-09-07,Red Sea Electronics,Raw Materials,19401.81,5,7
+90211,2025-09-06,Alex Metals Works,Packaging,20310.62,14,16
+90212,2025-02-01,Red Sea Electronics,Textiles,12280.44,5,5
+90213,2025-06-23,Nile Packaging,Chemicals,11563.41,5,7
+90214,2025-04-21,Misr Office Supply,Raw Materials,12308.71,14,19
+90215,2025-03-29,Cairo Plastics,Raw Materials,5572.44,10,14
+90216,2025-05-16,Alex Metals Works,Raw Materials,36689.58,14,16
+90217,2025-11-20,Nile Packaging,Packaging,14067.04,10,8
+90218,2025-07-04,Red Sea Electronics,Electronics,9738.83,5,11
+90219,2025-01-06,Red Sea Electronics,Office Supplies,33839.66,5,10
+90220,2025-10-03,Alex Metals Works,Office Supplies,17672.99,7,7
+90221,2025-07-18,Delta Supplies Co.,Spare Parts,38874.23,10,5
+90222,2025-04-04,Nile Packaging,Textiles,11329.62,7,10
+90223,2025-01-19,Red Sea Electronics,Packaging,38088.41,10,10
+90224,2025-06-05,Giza Textiles,Raw Materials,31202.16,10,3
+90225,2025-01-07,Red Sea Electronics,Packaging,4830.43,10,6
+90226,2025-07-11,Cairo Plastics,Packaging,37858.54,14,13
+90227,2025-04-14,Red Sea Electronics,Electronics,11730.14,10,8
+90228,2025-06-14,Delta Supplies Co.,Chemicals,18079.72,5,2
+90229,2025-03-24,Delta Supplies Co.,Packaging,28124.14,7,8
+90230,2025-05-13,Giza Textiles,Packaging,13226.14,14,10
+90231,2025-10-15,Delta Foods,Textiles,8413.42,5,5
+90232,2025-03-12,Delta Supplies Co.,Packaging,12075.34,7,1
+90233,2025-03-27,Canal Freight & Parts,Spare Parts,21454.0,5,1
+90234,2025-07-29,Alex Metals Works,Office Supplies,13564.18,10,13
+90235,2025-07-28,Delta Supplies Co.,Textiles,41335.37,5,2
+90236,2025-02-23,Alex Metals Works,Spare Parts,7949.99,5,5
+90237,2025-02-07,Delta Foods,Spare Parts,30514.75,14,13
+90238,2025-09-20,Misr Office Supply,Chemicals,31232.08,5,1
+90239,2025-07-09,Giza Textiles,Raw Materials,27464.02,7,8
+90240,2025-05-10,Delta Foods,Office Supplies,12171.93,14,15
+90241,2025-07-07,Nile Packaging,Office Supplies,33875.05,10,14
+90242,2025-11-16,Delta Supplies Co.,Textiles,22439.9,14,14
+90243,2025-04-03,Nile Chemicals,Spare Parts,43762.66,14,16
+90244,2025-08-09,Giza Textiles,Textiles,43348.42,5,6
+90245,2025-04-30,Nile Chemicals,Textiles,30523.46,10,9
+90246,2025-07-06,Delta Foods,Raw Materials,3533.83,7,11
+90247,2025-03-11,Canal Freight & Parts,Textiles,29793.82,14,13
+90248,2025-08-29,Nile Chemicals,Electronics,32290.73,14,17
+90249,2025-08-12,Alex Metals Works,Spare Parts,22713.28,10,8
+90250,2025-01-10,Delta Foods,Spare Parts,25659.98,7,5
+90251,2025-04-15,Canal Freight & Parts,Spare Parts,10441.03,7,7
+90252,2025-06-04,Red Sea Electronics,Spare Parts,30632.83,10,10
+90253,2025-10-29,Cairo Plastics,Raw Materials,27607.13,5,5
+90254,2025-07-31,Alex Metals Works,Raw Materials,31923.11,10,15
+90255,2025-01-03,Cairo Plastics,Packaging,13400.75,7,7
+90256,2025-05-02,Nile Packaging,Packaging,8390.5,5,6
+90257,2025-06-21,Misr Office Supply,Electronics,15766.85,5,5
+90258,2025-08-02,Nile Packaging,Electronics,8985.76,14,15
+90259,2025-02-16,Canal Freight & Parts,Raw Materials,31954.97,5,3
+90260,2025-05-15,Nile Chemicals,Chemicals,23147.03,7,8
+90261,2025-04-07,Alex Metals Works,Spare Parts,31783.2,5,1
+90262,2025-07-17,Nile Packaging,Spare Parts,22315.47,10,9
+90263,2025-02-03,Cairo Plastics,Spare Parts,32433.79,7,4
+90264,2025-08-28,Red Sea Electronics,Chemicals,20725.28,7,2
+90265,2025-01-07,Canal Freight & Parts,Packaging,6639.51,7,3
+90266,2025-11-21,Giza Textiles,Chemicals,24925.54,14,14
+90267,2025-01-30,Cairo Plastics,Office Supplies,3010.79,5,7
+90268,2025-09-20,Red Sea Electronics,Chemicals,10270.47,10,11
+90269,2025-04-05,Delta Foods,Office Supplies,40638.39,7,11
+90270,2025-03-09,Nile Chemicals,Spare Parts,32276.25,7,10
+90271,2025-06-08,Nile Chemicals,Chemicals,33011.17,14,15
+90272,2025-01-29,Misr Office Supply,Packaging,8503.85,10,10
+90273,2025-11-19,Red Sea Electronics,Raw Materials,10501.44,7,7
+90274,2025-03-03,Delta Foods,Spare Parts,5222.38,10,8
+90275,2025-02-05,Giza Textiles,Textiles,4868.54,14,10
+90276,2025-09-20,Giza Textiles,Spare Parts,32322.12,7,1
+90277,2025-10-01,Nile Chemicals,Chemicals,4195.29,14,15
+90278,2025-08-22,Delta Supplies Co.,Spare Parts,44189.68,5,3
+90279,2025-10-13,Nile Packaging,Textiles,31414.56,7,5
+90280,2025-01-18,Nile Chemicals,Textiles,24351.65,10,6
+90281,2025-03-16,Nile Packaging,Office Supplies,43431.49,14,9
+90282,2025-01-27,Alex Metals Works,Chemicals,6581.62,5,3
+90283,2025-02-06,Alex Metals Works,Spare Parts,24869.79,10,14
+90284,2025-07-28,Giza Textiles,Office Supplies,16535.39,7,7
+90285,2025-03-05,Red Sea Electronics,Chemicals,7030.19,7,9
+90286,2025-05-13,Canal Freight & Parts,Spare Parts,14414.37,14,6
+90287,2025-08-27,Cairo Plastics,Office Supplies,35857.9,14,15
+90288,2025-04-10,Nile Chemicals,Spare Parts,12660.7,14,18
+90289,2025-05-11,Alex Metals Works,Spare Parts,28460.51,14,17
+90290,2025-06-10,Cairo Plastics,Office Supplies,19992.01,7,6
+90291,2025-01-01,Canal Freight & Parts,Electronics,2447.86,7,1
+90292,2025-05-11,Nile Chemicals,Packaging,38485.21,5,10
+90293,2025-05-17,Delta Foods,Electronics,28566.67,10,5
+90294,2025-07-21,Delta Supplies Co.,Office Supplies,19654.6,14,12
+90295,2025-11-22,Delta Supplies Co.,Office Supplies,9371.23,7,14
+90296,2025-03-19,Giza Textiles,Textiles,38107.21,10,9
+90297,2025-03-10,Misr Office Supply,Office Supplies,16465.58,7,11
+90298,2025-01-29,Nile Chemicals,Spare Parts,7980.79,10,11
+90299,2025-10-05,Misr Office Supply,Textiles,42685.13,5,3
+90300,2025-08-29,Cairo Plastics,Office Supplies,16638.88,14,15
+90301,2025-05-08,Nile Packaging,Raw Materials,16066.84,5,1
+90302,2025-01-14,Nile Packaging,Textiles,33867.56,5,5
+90303,2025-04-12,Giza Textiles,Electronics,36503.17,14,15
+90304,2025-07-13,Canal Freight & Parts,Textiles,15696.58,10,5
+90305,2025-06-26,Nile Chemicals,Chemicals,41325.12,10,5
+90306,2025-11-04,Cairo Plastics,Packaging,10962.09,5,1
+90307,2025-10-05,Nile Packaging,Office Supplies,41316.07,10,10
+90308,2025-01-18,Alex Metals Works,Textiles,44945.23,14,11
+90309,2025-04-05,Misr Office Supply,Spare Parts,34034.99,10,8
+90310,2025-02-21,Delta Supplies Co.,Packaging,17769.16,7,8
+90311,2025-08-10,Giza Textiles,Office Supplies,32523.75,7,3
+90312,2025-08-02,Misr Office Supply,Office Supplies,43817.14,7,2
+90313,2025-09-09,Alex Metals Works,Chemicals,43136.56,5,13
+90314,2025-10-15,Misr Office Supply,Spare Parts,6850.49,7,9
+90315,2025-10-19,Delta Supplies Co.,Raw Materials,10917.94,10,16
+90316,2025-01-12,Misr Office Supply,Packaging,8178.28,7,1
+90317,2025-11-20,Delta Supplies Co.,Textiles,7858.8,14,13
+90318,2025-05-13,Red Sea Electronics,Raw Materials,5971.36,10,10
+90319,2025-01-03,Alex Metals Works,Office Supplies,35659.81,10,12
+90320,2025-10-03,Cairo Plastics,Chemicals,9520.01,10,10
+90321,2025-04-14,Red Sea Electronics,Office Supplies,27549.5,5,10
+90322,2025-04-21,Misr Office Supply,Raw Materials,23001.22,10,11
+90323,2025-01-01,Nile Packaging,Spare Parts,4994.31,14,11
+90324,2025-10-14,Cairo Plastics,Chemicals,16450.02,14,16
+90325,2025-05-06,Cairo Plastics,Packaging,39378.95,7,9
+90326,2025-07-02,Cairo Plastics,Textiles,5654.31,14,13
+90327,2025-04-09,Nile Packaging,Chemicals,14733.75,10,11
+90328,2025-08-02,Canal Freight & Parts,Textiles,22341.92,14,16
+90329,2025-05-22,Misr Office Supply,Packaging,22288.65,14,9
+90330,2025-09-18,Nile Chemicals,Office Supplies,18488.12,7,4
+90331,2025-02-05,Nile Packaging,Electronics,33564.2,14,13
+90332,2025-06-21,Alex Metals Works,Textiles,39166.66,10,8
+90333,2025-10-21,Delta Supplies Co.,Spare Parts,35730.79,5,1
+90334,2025-09-02,Giza Textiles,Textiles,28649.4,10,5
+90335,2025-03-22,Alex Metals Works,Office Supplies,17731.47,5,4
+90336,2025-07-24,Nile Chemicals,Spare Parts,42627.92,10,6
+90337,2025-10-09,Alex Metals Works,Electronics,6962.96,14,11
+90338,2025-01-14,Delta Foods,Electronics,24423.13,10,11
+90339,2025-01-11,Misr Office Supply,Chemicals,36044.89,10,6
+90340,2025-06-16,Canal Freight & Parts,Chemicals,26307.9,14,15
+90341,2025-05-14,Nile Chemicals,Spare Parts,18671.42,5,6
+90342,2025-07-05,Red Sea Electronics,Packaging,42389.49,5,4
+90343,2025-07-13,Nile Packaging,Packaging,11017.17,5,7
+90344,2025-03-13,Giza Textiles,Electronics,7245.97,7,6
+90345,2025-02-24,Misr Office Supply,Chemicals,41643.81,7,8
+90346,2025-02-15,Red Sea Electronics,Spare Parts,33405.1,7,5
+90347,2025-08-05,Alex Metals Works,Chemicals,7431.67,5,5
+90348,2025-06-04,Delta Supplies Co.,Raw Materials,16095.91,5,6
+90349,2025-11-19,Nile Packaging,Textiles,8967.25,7,7
+90350,2025-04-03,Cairo Plastics,Electronics,7198.22,7,3
+90351,2025-08-11,Giza Textiles,Textiles,12892.46,10,7
+90352,2025-04-30,Alex Metals Works,Packaging,9735.65,14,23
+90353,2025-03-19,Delta Supplies Co.,Textiles,24799.13,10,8
+90354,2025-01-18,Delta Supplies Co.,Textiles,20876.69,14,8
+90355,2025-01-12,Giza Textiles,Chemicals,42564.33,10,8
+90356,2025-01-25,Alex Metals Works,Office Supplies,29783.88,7,2
+90357,2025-09-14,Nile Chemicals,Textiles,32339.47,5,5
+90358,2025-04-07,Red Sea Electronics,Chemicals,41944.45,14,13
+90359,2025-11-11,Nile Chemicals,Textiles,10207.1,7,3
+90360,2025-04-19,Nile Chemicals,Office Supplies,34574.86,5,9
+90361,2025-05-15,Alex Metals Works,Chemicals,38879.87,10,9
+90362,2025-09-08,Red Sea Electronics,Spare Parts,34548.79,10,15
+90363,2025-03-18,Nile Packaging,Chemicals,19816.51,14,7
+90364,2025-05-31,Canal Freight & Parts,Spare Parts,7744.88,14,13
+90365,2025-07-12,Nile Packaging,Chemicals,39464.47,10,9
+90366,2025-08-15,Nile Chemicals,Raw Materials,3534.49,10,12
+90367,2025-06-03,Nile Packaging,Office Supplies,13100.14,7,8
+90368,2025-07-09,Misr Office Supply,Textiles,35061.74,7,13
+90369,2025-05-23,Nile Chemicals,Textiles,31387.38,14,10
+90370,2025-08-31,Delta Foods,Raw Materials,27882.59,5,10
+90371,2025-10-04,Nile Chemicals,Office Supplies,38606.98,7,8
+90372,2025-05-08,Red Sea Electronics,Raw Materials,5736.2,10,10
+90373,2025-01-18,Red Sea Electronics,Chemicals,22168.24,7,6
+90374,2025-02-11,Alex Metals Works,Packaging,29744.05,10,6
+90375,2025-03-03,Misr Office Supply,Electronics,16462.71,7,12
+90376,2025-03-25,Delta Foods,Electronics,41242.22,7,1
+90377,2025-04-24,Canal Freight & Parts,Electronics,43755.65,7,7
+90378,2025-02-02,Red Sea Electronics,Packaging,6228.4,14,8
+90379,2025-08-29,Delta Supplies Co.,Office Supplies,18492.17,10,8
+90380,2025-08-26,Delta Foods,Packaging,24388.33,14,17
+90381,2025-03-03,Giza Textiles,Packaging,41342.14,10,3
+90382,2025-08-29,Nile Chemicals,Raw Materials,25823.49,14,11
+90383,2025-10-29,Alex Metals Works,Electronics,40101.35,10,10
+90384,2025-07-08,Alex Metals Works,Textiles,27038.48,14,22
+90385,2025-06-19,Canal Freight & Parts,Chemicals,9663.06,14,11
+90386,2025-01-15,Delta Foods,Textiles,29067.65,10,10
+90387,2025-10-16,Red Sea Electronics,Office Supplies,10504.93,10,11
+90388,2025-03-31,Delta Foods,Office Supplies,12501.28,10,10
+90389,2025-10-28,Giza Textiles,Raw Materials,11014.35,5,6
+90390,2025-02-06,Cairo Plastics,Office Supplies,6745.55,7,2
+90391,2025-05-27,Cairo Plastics,Office Supplies,26966.63,5,4
+90392,2025-01-01,Delta Foods,Electronics,40494.19,10,13
+90393,2025-01-05,Nile Chemicals,Office Supplies,27348.72,14,14
+90394,2025-04-03,Cairo Plastics,Raw Materials,11054.53,5,1
+90395,2025-03-04,Canal Freight & Parts,Office Supplies,24169.16,10,6
+90396,2025-06-15,Nile Packaging,Chemicals,37707.7,14,10
+90397,2025-08-06,Delta Foods,Chemicals,8360.63,5,7
+90398,2025-07-06,Giza Textiles,Chemicals,24847.89,5,14
+90399,2025-07-17,Nile Chemicals,Office Supplies,17715.38,7,4
+90400,2025-03-10,Misr Office Supply,Packaging,8990.6,10,12
+90401,2025-03-19,Nile Packaging,Chemicals,36264.64,7,5
+90402,2025-03-05,Nile Packaging,Chemicals,23352.84,7,5
+90403,2025-08-26,Delta Supplies Co.,Packaging,20174.5,5,8
+90404,2025-05-02,Cairo Plastics,Spare Parts,5981.08,5,5
+90405,2025-09-02,Giza Textiles,Electronics,22483.86,14,19
+90406,2025-01-22,Delta Supplies Co.,Textiles,44475.1,7,16
+90407,2025-05-03,Canal Freight & Parts,Packaging,10523.24,5,3
+90408,2025-05-14,Nile Chemicals,Office Supplies,5390.1,5,5
+90409,2025-06-07,Misr Office Supply,Spare Parts,42275.01,5,1
+90410,2025-05-06,Nile Packaging,Office Supplies,24082.51,7,8
+90411,2025-03-26,Red Sea Electronics,Raw Materials,44563.08,5,7
+90412,2025-03-22,Delta Supplies Co.,Raw Materials,24399.32,5,4
+90413,2025-04-08,Alex Metals Works,Packaging,30792.61,14,14
+90414,2025-08-10,Red Sea Electronics,Raw Materials,32170.02,10,9
+90415,2025-07-23,Cairo Plastics,Textiles,5775.85,5,3
+90416,2025-05-28,Nile Chemicals,Packaging,3629.77,10,8
+90417,2025-08-02,Nile Packaging,Packaging,5647.81,14,16
+90418,2025-01-30,Nile Packaging,Textiles,23598.93,7,13
+90419,2025-09-08,Cairo Plastics,Raw Materials,30802.46,10,9
+90420,2025-09-11,Red Sea Electronics,Packaging,8075.84,14,12
+90421,2025-09-05,Alex Metals Works,Office Supplies,31485.64,14,20
+90422,2025-04-05,Nile Packaging,Raw Materials,36475.8,5,6
+90423,2025-05-03,Cairo Plastics,Chemicals,42782.23,5,1
+90424,2025-05-18,Giza Textiles,Office Supplies,37582.27,10,12
+90425,2025-03-24,Red Sea Electronics,Packaging,2154.78,14,18
+90426,2025-02-16,Alex Metals Works,Office Supplies,39498.36,14,16
+90427,2025-03-01,Giza Textiles,Raw Materials,30874.47,5,1
+90428,2025-01-02,Delta Foods,Chemicals,15687.47,7,9
+90429,2025-10-14,Canal Freight & Parts,Chemicals,10451.15,14,14
+90430,2025-09-23,Nile Chemicals,Electronics,23951.36,7,4
+90431,2025-10-29,Canal Freight & Parts,Electronics,30359.64,7,7
+90432,2025-03-07,Alex Metals Works,Raw Materials,24868.6,5,1
+90433,2025-05-22,Red Sea Electronics,Spare Parts,18124.92,5,7
+90434,2025-09-01,Misr Office Supply,Textiles,25393.78,7,5
+90435,2025-05-31,Delta Supplies Co.,Spare Parts,13042.3,14,8
+90436,2025-06-14,Delta Foods,Textiles,17456.85,7,6
+90437,2025-07-04,Cairo Plastics,Spare Parts,20583.46,7,1
+90438,2025-05-11,Delta Supplies Co.,Electronics,17506.4,10,9
+90439,2025-01-17,Canal Freight & Parts,Chemicals,40268.81,14,11
+90440,2025-06-06,Alex Metals Works,Textiles,6390.09,7,5
+90441,2025-04-11,Red Sea Electronics,Raw Materials,32618.56,10,12
+90442,2025-06-23,Giza Textiles,Packaging,15504.0,14,16
+90443,2025-11-25,Alex Metals Works,Electronics,14080.09,7,4
+90444,2025-05-06,Delta Supplies Co.,Textiles,20233.45,10,11
+90445,2025-03-19,Misr Office Supply,Raw Materials,6788.75,10,10
+90446,2025-05-20,Delta Foods,Raw Materials,18854.04,14,4
+90447,2025-04-06,Delta Supplies Co.,Office Supplies,17985.95,14,13
+90448,2025-06-14,Cairo Plastics,Packaging,2876.27,10,10
+90449,2025-10-21,Delta Foods,Raw Materials,10608.18,7,7
+90450,2025-05-04,Nile Chemicals,Raw Materials,3565.04,7,1
+90451,2025-06-16,Misr Office Supply,Textiles,7260.69,5,5
+90452,2025-04-19,Nile Chemicals,Raw Materials,40799.12,14,12
+90453,2025-03-01,Giza Textiles,Packaging,30116.83,10,12
+90454,2025-08-05,Delta Supplies Co.,Chemicals,36245.18,7,5
+90455,2025-06-05,Red Sea Electronics,Spare Parts,32702.85,10,11
+90456,2025-08-28,Cairo Plastics,Chemicals,28872.34,5,7
+90457,2025-11-03,Misr Office Supply,Textiles,8871.57,14,14
+90458,2025-02-23,Nile Packaging,Electronics,21859.79,10,10
+90459,2025-04-19,Nile Packaging,Raw Materials,40914.76,5,1
+90460,2025-04-05,Red Sea Electronics,Electronics,41522.02,10,13
+90461,2025-06-28,Alex Metals Works,Raw Materials,23955.84,10,10
+90462,2025-09-10,Cairo Plastics,Packaging,39736.99,5,1
+90463,2025-07-03,Canal Freight & Parts,Chemicals,26048.24,10,14
+90464,2025-05-21,Nile Chemicals,Spare Parts,6918.76,10,10
+90465,2025-09-30,Alex Metals Works,Electronics,30981.79,10,5
+90466,2025-02-28,Nile Chemicals,Packaging,19287.12,10,10
+90467,2025-03-24,Misr Office Supply,Textiles,17510.53,7,7
+90468,2025-05-13,Alex Metals Works,Spare Parts,41424.56,7,9
+90469,2025-01-30,Giza Textiles,Packaging,40159.32,5,9
+90470,2025-06-14,Red Sea Electronics,Spare Parts,10493.58,14,12
+90471,2025-03-30,Alex Metals Works,Office Supplies,10008.02,5,1
+90472,2025-11-27,Misr Office Supply,Spare Parts,15501.45,7,5
+90473,2025-10-09,Red Sea Electronics,Office Supplies,28513.3,7,2
+90474,2025-03-10,Misr Office Supply,Chemicals,35862.55,10,8
+90475,2025-10-20,Red Sea Electronics,Office Supplies,37696.48,7,11
+90476,2025-10-18,Red Sea Electronics,Chemicals,43701.2,7,7
+90477,2025-01-31,Nile Packaging,Chemicals,28861.1,5,2
+90478,2025-10-31,Alex Metals Works,Spare Parts,42829.88,7,6
+90479,2025-01-12,Canal Freight & Parts,Packaging,20921.19,5,10
+90480,2025-08-21,Nile Chemicals,Chemicals,3119.5,7,8
+90481,2025-06-22,Nile Packaging,Raw Materials,2966.14,10,8
+90482,2025-03-03,Delta Foods,Electronics,41564.58,5,6
+90483,2025-02-14,Red Sea Electronics,Chemicals,36219.6,7,9
+90484,2025-05-24,Cairo Plastics,Electronics,5933.95,5,6
+90485,2025-10-10,Canal Freight & Parts,Chemicals,39065.12,14,9
+90486,2025-03-15,Red Sea Electronics,Spare Parts,10458.39,14,12
+90487,2025-04-23,Delta Foods,Office Supplies,43006.15,10,6
+90488,2025-09-19,Delta Supplies Co.,Packaging,6083.88,7,8
+90489,2025-08-14,Red Sea Electronics,Chemicals,16961.51,10,11
+90490,2025-09-06,Nile Chemicals,Textiles,11018.58,5,1
+90491,2025-06-27,Giza Textiles,Packaging,24559.91,14,10
+90492,2025-03-20,Misr Office Supply,Packaging,35840.27,14,16
+90493,2025-04-12,Nile Chemicals,Chemicals,36935.16,7,5
+90494,2025-02-18,Red Sea Electronics,Electronics,18205.85,10,9
+90495,2025-10-24,Nile Chemicals,Textiles,36721.78,7,11
+90496,2025-06-04,Misr Office Supply,Chemicals,26222.34,10,10
+90497,2025-03-06,Delta Foods,Office Supplies,39099.08,7,5
+90498,2025-08-11,Giza Textiles,Packaging,38452.25,14,9
+90499,2025-03-21,Alex Metals Works,Chemicals,40565.33,14,15
+90500,2025-06-12,Delta Foods,Packaging,6289.64,7,5
+90501,2025-10-23,Alex Metals Works,Textiles,27214.62,7,4
+90502,2025-04-09,Nile Packaging,Raw Materials,44153.3,14,11
+90503,2025-04-13,Delta Supplies Co.,Spare Parts,29779.5,14,11
+90504,2025-02-22,Delta Foods,Office Supplies,33257.9,14,15
+90505,2025-04-27,Nile Chemicals,Electronics,6485.09,7,12
+90506,2025-02-03,Misr Office Supply,Spare Parts,33521.89,7,6
+90507,2025-02-21,Canal Freight & Parts,Spare Parts,40597.65,5,3
+90508,2025-04-12,Nile Packaging,Electronics,23042.34,7,7
+90509,2025-05-09,Delta Foods,Textiles,11596.58,5,7
+90510,2025-05-05,Delta Supplies Co.,Raw Materials,16159.27,14,15
+90511,2025-02-25,Red Sea Electronics,Spare Parts,2992.1,14,15
+90512,2025-04-26,Giza Textiles,Textiles,30009.23,7,5
+90513,2025-10-01,Cairo Plastics,Electronics,19970.49,14,16
+90514,2025-11-13,Misr Office Supply,Spare Parts,34577.41,14,12
+90515,2025-05-21,Giza Textiles,Spare Parts,19531.38,7,3
+90516,2025-01-26,Cairo Plastics,Chemicals,23870.34,7,3
+90517,2025-03-02,Nile Chemicals,Textiles,44064.69,5,5
+90518,2025-01-07,Cairo Plastics,Textiles,37167.19,10,7
+90519,2025-06-03,Cairo Plastics,Packaging,29632.4,14,10
+90520,2025-01-02,Nile Chemicals,Chemicals,27679.88,10,13
+90521,2025-06-22,Alex Metals Works,Raw Materials,30825.0,5,5
+90522,2025-05-27,Misr Office Supply,Office Supplies,36749.14,5,5
+90523,2025-03-01,Nile Packaging,Electronics,3081.73,5,2
+90524,2025-07-08,Giza Textiles,Raw Materials,7065.04,7,3
+90525,2025-08-26,Red Sea Electronics,Textiles,18473.05,10,7
+90526,2025-08-11,Red Sea Electronics,Office Supplies,32616.88,7,5
+90527,2025-07-13,Misr Office Supply,Spare Parts,25915.49,14,15
+90528,2025-02-26,Cairo Plastics,Packaging,20940.68,5,3
+90529,2025-11-09,Nile Chemicals,Packaging,27941.63,10,8
+90530,2025-03-29,Cairo Plastics,Raw Materials,26116.6,14,15
+90531,2025-08-02,Delta Supplies Co.,Chemicals,21106.77,5,6
+90532,2025-06-05,Nile Packaging,Textiles,14966.3,14,13
+90533,2025-01-10,Nile Chemicals,Packaging,36333.69,14,12
+90534,2025-02-15,Nile Packaging,Spare Parts,5892.89,5,8
+90535,2025-04-10,Alex Metals Works,Electronics,37308.74,5,5
+90536,2025-08-02,Delta Supplies Co.,Chemicals,33914.33,14,13
+90537,2025-02-19,Delta Foods,Chemicals,4511.25,14,16
+90538,2025-02-27,Cairo Plastics,Chemicals,38047.8,5,1
+90539,2025-05-23,Delta Foods,Packaging,26700.51,14,15
+90540,2025-01-11,Misr Office Supply,Electronics,29453.39,10,7
+90541,2025-09-18,Nile Packaging,Spare Parts,24203.6,5,5
+90542,2025-06-24,Misr Office Supply,Electronics,32938.78,7,5
+90543,2025-07-11,Giza Textiles,Chemicals,13773.81,7,8
+90544,2025-11-03,Delta Foods,Spare Parts,38825.91,7,14
+90545,2025-04-15,Misr Office Supply,Office Supplies,7503.93,7,6
+90546,2025-10-13,Alex Metals Works,Electronics,13141.86,5,10
+90547,2025-11-12,Giza Textiles,Textiles,9481.83,7,9
+90548,2025-02-19,Red Sea Electronics,Office Supplies,29926.49,10,9
+90549,2025-08-03,Cairo Plastics,Textiles,18814.61,5,3
+90550,2025-08-06,Delta Foods,Textiles,30311.04,7,3
+90551,2025-07-24,Cairo Plastics,Textiles,42825.42,14,17
+90552,2025-09-20,Nile Packaging,Packaging,31369.9,10,13
+90553,2025-02-08,Nile Chemicals,Spare Parts,13509.59,7,6
+90554,2025-08-24,Alex Metals Works,Spare Parts,25473.43,14,11
+90555,2025-04-01,Nile Packaging,Packaging,40362.25,7,10
+90556,2025-09-29,Misr Office Supply,Packaging,8171.45,7,1
+90557,2025-10-10,Nile Chemicals,Spare Parts,14409.86,7,7
+90558,2025-02-12,Giza Textiles,Packaging,18335.85,10,11
+90559,2025-01-07,Giza Textiles,Spare Parts,2018.37,14,20
+90560,2025-04-27,Nile Packaging,Textiles,32520.33,14,13
+90561,2025-10-25,Cairo Plastics,Textiles,14329.67,5,5
+90562,2025-01-30,Nile Packaging,Spare Parts,38470.38,10,9
+90563,2025-01-11,Misr Office Supply,Packaging,36952.83,14,13
+90564,2025-03-21,Cairo Plastics,Raw Materials,32456.93,14,13
+90565,2025-10-21,Canal Freight & Parts,Textiles,41642.02,10,13
+90566,2025-05-29,Misr Office Supply,Raw Materials,3640.28,10,13
+90567,2025-05-11,Delta Foods,Textiles,35448.76,10,11
+90568,2025-08-17,Nile Chemicals,Raw Materials,31612.83,14,9
+90569,2025-03-31,Cairo Plastics,Office Supplies,31398.49,5,6
+90570,2025-03-07,Nile Chemicals,Packaging,42824.93,7,9
+90571,2025-08-17,Delta Supplies Co.,Office Supplies,38012.54,14,16
+90572,2025-01-30,Delta Supplies Co.,Raw Materials,39999.71,7,5
+90573,2025-07-30,Giza Textiles,Packaging,38540.0,5,5
+90574,2025-01-26,Red Sea Electronics,Textiles,18988.41,14,14
+90575,2025-11-27,Nile Chemicals,Raw Materials,28093.07,5,7
+90576,2025-08-09,Delta Supplies Co.,Raw Materials,38217.94,7,8
+90577,2025-08-05,Red Sea Electronics,Electronics,37988.95,14,22
+90578,2025-10-27,Giza Textiles,Office Supplies,13251.14,14,13
+90579,2025-11-14,Red Sea Electronics,Chemicals,24660.71,5,4
+90580,2025-02-23,Red Sea Electronics,Office Supplies,20586.61,14,17
+90581,2025-09-16,Nile Packaging,Office Supplies,27763.29,5,7
+90582,2025-06-05,Canal Freight & Parts,Electronics,30740.36,5,2
+90583,2025-01-02,Cairo Plastics,Electronics,26809.68,14,12
+90584,2025-07-13,Canal Freight & Parts,Raw Materials,16268.06,5,3
+90585,2025-10-06,Canal Freight & Parts,Textiles,41281.08,7,11
+90586,2025-10-17,Canal Freight & Parts,Packaging,28801.79,5,1
+90587,2025-09-02,Misr Office Supply,Raw Materials,32312.87,10,12
+90588,2025-01-08,Delta Supplies Co.,Spare Parts,35982.4,7,4
+90589,2025-01-16,Delta Foods,Packaging,33508.24,7,12
+90590,2025-04-26,Nile Packaging,Packaging,20891.84,10,8
+90591,2025-07-17,Alex Metals Works,Spare Parts,21277.13,10,8
+90592,2025-10-13,Delta Foods,Spare Parts,23201.46,10,10
+90593,2025-03-04,Delta Supplies Co.,Textiles,37923.25,7,6
+90594,2025-02-02,Alex Metals Works,Electronics,25296.82,10,9
+90595,2025-01-21,Red Sea Electronics,Chemicals,34289.03,5,6
+90596,2025-09-07,Delta Foods,Packaging,40802.31,5,6
+90597,2025-01-28,Nile Packaging,Spare Parts,9823.28,10,16
+90598,2025-08-13,Alex Metals Works,Electronics,32366.14,10,11
+90599,2025-07-21,Canal Freight & Parts,Textiles,13852.34,7,6
+90600,2025-05-09,Alex Metals Works,Packaging,31871.24,7,10
+90601,2025-01-11,Cairo Plastics,Spare Parts,15169.45,5,9
+90602,2025-01-04,Red Sea Electronics,Spare Parts,37059.3,10,7
+90603,2025-03-23,Nile Packaging,Raw Materials,17007.16,14,18
+90604,2025-04-03,Delta Supplies Co.,Raw Materials,41081.97,7,8
+90605,2025-07-25,Alex Metals Works,Packaging,21510.0,5,11
+90606,2025-01-27,Giza Textiles,Electronics,10648.13,14,12
+90607,2025-10-28,Nile Chemicals,Spare Parts,21514.62,14,12
+90608,2025-07-05,Giza Textiles,Electronics,14554.96,7,7
+90609,2025-03-02,Giza Textiles,Electronics,21106.6,7,6
+90610,2025-04-07,Nile Packaging,Raw Materials,21334.92,14,12
+90611,2025-10-18,Giza Textiles,Electronics,23263.72,14,17
+90612,2025-07-22,Alex Metals Works,Chemicals,20595.03,5,5
+90613,2025-01-04,Giza Textiles,Spare Parts,38095.83,14,18
+90614,2025-06-25,Nile Packaging,Textiles,30383.15,14,11
+90615,2025-06-07,Misr Office Supply,Packaging,14374.01,14,11
+90616,2025-08-17,Canal Freight & Parts,Textiles,28319.07,14,12
+90617,2025-11-15,Alex Metals Works,Electronics,29531.76,7,12
+90618,2025-01-09,Delta Foods,Spare Parts,25058.74,14,12
+90619,2025-09-12,Cairo Plastics,Textiles,34357.93,10,4
+90620,2025-08-28,Nile Packaging,Raw Materials,29388.41,14,13
+90621,2025-04-24,Giza Textiles,Packaging,19831.36,10,5
+90622,2025-10-23,Nile Packaging,Packaging,4959.3,14,12
+90623,2025-09-23,Canal Freight & Parts,Office Supplies,21230.64,5,2
+90624,2025-07-31,Cairo Plastics,Office Supplies,27411.92,10,6
+90625,2025-10-05,Nile Chemicals,Electronics,18577.09,14,12
+90626,2025-09-10,Misr Office Supply,Packaging,30446.69,14,17
+90627,2025-03-23,Nile Chemicals,Electronics,35646.35,5,5
+90628,2025-04-21,Misr Office Supply,Textiles,24915.08,7,4
+90629,2025-01-22,Alex Metals Works,Office Supplies,10906.3,5,5
+90630,2025-02-17,Delta Foods,Electronics,4878.14,14,16
+90631,2025-10-11,Giza Textiles,Packaging,7345.89,10,13
+90632,2025-02-10,Giza Textiles,Office Supplies,33255.37,14,11
+90633,2025-07-10,Cairo Plastics,Electronics,9995.0,14,19
+90634,2025-04-03,Nile Chemicals,Spare Parts,36694.09,7,8
+90635,2025-11-02,Misr Office Supply,Raw Materials,10197.59,14,10
+90636,2025-07-05,Nile Packaging,Chemicals,16381.02,10,5
+90637,2025-04-29,Delta Supplies Co.,Raw Materials,21119.46,10,9
+90638,2025-08-09,Cairo Plastics,Electronics,10962.91,10,9
+90639,2025-11-21,Misr Office Supply,Spare Parts,22539.57,10,12
